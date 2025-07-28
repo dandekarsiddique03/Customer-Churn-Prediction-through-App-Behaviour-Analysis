@@ -1,6 +1,6 @@
 #Directing Customer to Subscription through App Behaviour Analysis
                                    
-Objective:
+Objective: 
 
 A FinTech company launched a mobile app and provided a 24-hour free trial. The goal of this project is to segment users based on their behavior during the trial using clustering techniques. This helps the company:
 - Understand user engagement patterns.
