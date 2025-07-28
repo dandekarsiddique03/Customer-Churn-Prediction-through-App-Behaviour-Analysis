@@ -1,4 +1,4 @@
-#Customer Churn Prediction through App Behaviour Analysis
+#Directing Customer to Subscription through App Behaviour Analysis
                                    
 Objective:
 
